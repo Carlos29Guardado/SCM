@@ -1,6 +1,5 @@
 # SCM
 Es un gestor de citas para una unidad de salud.
-# Integrantes
 # TEMA: 
 * SCM (SISTEMA GESTOR DE CITAS MEDICAS)
 # MATERIA
