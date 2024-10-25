@@ -1,5 +1,5 @@
 # SCM
 Es un gestor de citas para una unidad de salud.
 # Integrantes
-## Carlos Enmanuel Flores Mendez
-## Carlos Manuel Guardado Delgado
+1. Carlos Enmanuel Flores Mendez
+2. Carlos Manuel Guardado Delgado
